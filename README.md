@@ -14,4 +14,4 @@
 
 <h2>Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&show_icons=true&theme=radical)](https://github.com/YohannTisserand/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&show_icons=true&theme=radical>
