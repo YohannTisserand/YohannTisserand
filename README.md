@@ -5,4 +5,4 @@
 
 ---
 <h2>Languages:</h2>
-<a href="https://www.w3schools.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40"></a>
