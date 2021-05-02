@@ -13,4 +13,5 @@
 ![](https://img.shields.io/badge/Tool-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=2bbc8a)
 
 <h2>Stats</h2>
-[![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannTisserand&show_icons=true&theme=radical)](https://github.com/YohannTisserand/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&show_icons=true&theme=radical)](https://github.com/YohannTisserand/github-readme-stats">
