@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Yohann ✌️</h1>
 <h2 align ="left">Full-Stack developer</h2>
 
-- 👨‍💻 I am currently a <a href="https://makers.tech/" target="_blank">Makers</a> student
+- 👨‍💻 I am currently a <a target="_blank" href="https://makers.tech/">Makers</a> student
 <br>
 <h2> Languages</h2>
 
