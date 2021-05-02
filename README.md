@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Yohann ✌️</h1>
-<h2 align ="center">Full-Stack developer</h2>
+<h1 align="left">Hi, I'm Yohann ✌️</h1>
+<h2 align ="left">Full-Stack developer</h2>
 
 - 👨‍💻 I am currently a <a href="https://makers.tech/">Makers</a> student
 <br>
