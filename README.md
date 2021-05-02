@@ -11,3 +11,6 @@
 ![](https://img.shields.io/badge/Code-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=2bbc8a)
+
+<h2>Stats</h2>
+[![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannTisserand&show_icons=true&theme=radical)](https://github.com/YohannTisserand/github-readme-stats)
