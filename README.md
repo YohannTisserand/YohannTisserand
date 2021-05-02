@@ -14,4 +14,4 @@
 
 <h2>Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&theme=dracula&show_icons=true" />
