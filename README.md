@@ -13,6 +13,6 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=2bbc8a)
 
-<h3>Stats</h3>
+## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&theme=gotham&show_icons=true" />
