@@ -9,3 +9,4 @@
 ![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
