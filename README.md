@@ -3,6 +3,6 @@
 
 - 👨‍💻 I am currently a <a href="https://makers.tech/">Makers</a> student
 <br>
-## Languages:
+<h2> Languages:</h2>
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
