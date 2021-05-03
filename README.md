@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/Code-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 
 ## Stats
 
