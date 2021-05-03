@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Code-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=boostrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=Boostrap&logoColor=white&color=2bbc8a)
 
 ## Stats
 
