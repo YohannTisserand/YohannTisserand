@@ -4,7 +4,7 @@
 - 👨‍💻 I am currently a <a href="https://makers.tech/">Makers</a> student
 <br>
 
-### Languages
+## Languages
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rspec-informational?style=flat&logo=rspec&logoColor=white&color=2bbc8a)
