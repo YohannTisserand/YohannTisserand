@@ -1,10 +1,10 @@
 ### Hi, I'm Yohann ✌️<br>
-## Full-Stack developer
+### Full-Stack developer
 
 - 👨‍💻 I am currently a <a href="https://makers.tech/">Makers</a> student
 <br>
 
-## Languages
+### Languages
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rspec-informational?style=flat&logo=rspec&logoColor=white&color=2bbc8a)
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=2bbc8a)
 
-## Stats
+### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&theme=gotham&show_icons=true" />
 
