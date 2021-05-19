@@ -19,4 +19,3 @@
 ### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YohannTisserand&theme=gotham&show_icons=true" />
-
