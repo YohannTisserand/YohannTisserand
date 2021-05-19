@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rspec-informational?style=flat&logo=rspec&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=ruby on rails&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a)<br>
 ![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
