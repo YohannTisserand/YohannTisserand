@@ -1,7 +1,7 @@
 ## Hi, I'm Yohann ✌️<br>
 ### Full-Stack developer
 
-- 👨‍💻 I am currently a <a href="https://makers.tech/">Makers</a> student
+- 👨‍💻 <a href="https://makers.tech/">Makers</a> graduate
 <br>
 
 ## Languages
