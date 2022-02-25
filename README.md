@@ -2,7 +2,6 @@
 ### Full-Stack developer
 
 - 👨‍💻 <a href="https://makers.tech/">Makers</a> graduate
-- tisserand.yohann@gmail.com
 <br>
 
 ## Languages
